@@ -1,0 +1,5 @@
+/home/alex/Projects/WhileTest/WhileTest/bin/Debug/WhileTest.exe
+/home/alex/Projects/WhileTest/WhileTest/bin/Debug/WhileTest.pdb
+/home/alex/Projects/WhileTest/WhileTest/obj/x86/Debug/WhileTest.csprojAssemblyReference.cache
+/home/alex/Projects/WhileTest/WhileTest/obj/x86/Debug/WhileTest.exe
+/home/alex/Projects/WhileTest/WhileTest/obj/x86/Debug/WhileTest.pdb
